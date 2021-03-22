@@ -1,5 +1,5 @@
 ---
-title: 'Outstanding Plants Garden '
+title: Outstanding Plants Garden
 order: 1
 template: category
 ---
