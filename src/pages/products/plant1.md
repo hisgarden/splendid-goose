@@ -6,7 +6,7 @@ description: >-
   Low maintenance perennial producing long, leafy stems of brightly colored
   yellow, orange, peach, pink, red, or magenta flowers resembling small lilies.
   Multiplies on tuberous underground roots as well as by seed; can become
-  invasive.Deciduous form produces leaves in winter replaced by flowers in late
+  invasive. Deciduous form produces leaves in winter replaced by flowers in late
   spring. No summer water.Evergreen varieties form clumping mounds that bloom
   for long periods with some summer water.
 default_thumbnail_image: images/plant1.jpg
