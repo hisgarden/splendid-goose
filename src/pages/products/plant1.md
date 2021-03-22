@@ -3,9 +3,12 @@ id: '1'
 price: '49.40'
 title: Alstroemeria (Peruvian Lily)
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Low maintenance perennial producing long, leafy stems of brightly colored
+  yellow, orange, peach, pink, red, or magenta flowers resembling small
+  lilies.Multiplies on tuberous underground roots as well as by seed; can become
+  invasive.Deciduous form produces leaves in winter replaced by flowers in late
+  spring. No summer water.Evergreen varieties form clumping mounds that bloom
+  for long periods with some summer water.
 default_thumbnail_image: images/plant1.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
